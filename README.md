@@ -3,10 +3,10 @@
 Recent Activity
 ---------------
 
-#### 工作方面
+#### 工作近況
 > 目前正在求職中
 
-#### 技術方面
+#### 技術近況
 >
 
 Introduction
@@ -25,3 +25,12 @@ Work Experience
 ---------------
 > 尚無工作經驗
 
+Skills
+------
+
+#### Languages
+
+> HTML
+> * test
+
+> CSS
