@@ -7,7 +7,7 @@ Recent Activity
 > 目前正在求職中
 
 #### 技術近況
->
+> test
 
 Introduction
 ------------
@@ -58,7 +58,8 @@ Skills
 Project
 -------
 
-#### 簡易購物車  ##### `未完成`
+#### 簡易購物車 `##### 未完成`
+
 > []()
 >
 > _JavaScript Test_
