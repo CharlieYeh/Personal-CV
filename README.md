@@ -51,7 +51,7 @@ About Me
   <li>
     <details>
       <summary>
-        <code>2019-01</code> | 常備兵役 | 結訓退伍 
+        <code> ~ 2019-01</code> | 常備兵役 | 結訓退伍 
       </summary>
     </details>
   </li>
