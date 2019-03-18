@@ -87,12 +87,14 @@ Skills
 > * 熟悉 CSS 大部分屬性
 > * 略懂 Bootstrap Front-End Framework
 > * 略懂 RWD 
+> * <del> 維護 Stylesheets </del>
 
 > JavaScript
+> * 使用語言特性：
 > * 略懂 Node.js
 > * 略懂 jQuery 函式庫
 > * 略懂 MVC Architectures
-> * <del> 略懂 npm </del>
+> * 略懂 NPM modules
 
 #### Data Querying Language <br> 
 
@@ -115,12 +117,13 @@ Project
   於一段時間的摸索、測試之後，目前僅實裝部分功能，正在試著規劃更完整的購物車</i>
 >
 > 以Node.js協助開發。
+>
 > 使用資源：
 > * Bootstrap Framwork
 > * jQuery Library
 > * <del>Complete RWD</del>
 
-#### 仿企業官網
+#### 仿企業形象官網
 
 > []()
 > 
@@ -132,4 +135,3 @@ Contact
 -------
 E-mail： [coolsheep378@gmail.com](coolsheep378@gmail.com) <br>
 FaceBook： []()                                           <br>
-<del> Website：</del>
