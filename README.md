@@ -23,7 +23,7 @@ About Me
 我是 <b>葉名揚</b>，男 ─ 22歲。
 <ol>
   <li>
-    <details>
+    <details >
       <summary>
         <code>2011-09 ~ 2014-06</code> | 大安高級工業職業學校 | 資訊科 - 畢業
       </summary><br>
