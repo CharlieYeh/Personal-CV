@@ -1,8 +1,13 @@
-# Charlie Yeh's Personal-cv
+# Charlie's personal-cv
 
 Recent Activity
-==============
+---------------
+
+#### 工作方面
 > 目前正在求職中
+
+#### 技術方面
+>
 
 Introduction
 ------------
