@@ -47,6 +47,14 @@ About Me
 > 如今也依然在<b>努力汲取前端所需具備</b>的<b>技術</b>及<b>知識</b>，希望能夠有機會<b>累積開發經驗，更加開拓自己的視界</b>。
     </details>
   </li>
+  
+  <li>
+    <details>
+      <summary>
+        <code>2019-01</code> | 常備兵役 | 結訓退伍 
+      </summary>
+    </details>
+  </li>
 </ol>
 
 Personality
