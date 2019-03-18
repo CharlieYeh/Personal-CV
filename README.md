@@ -1,7 +1,7 @@
 # Charlie's personal-cv
 
 Recent Activity
---------------- <\br>
+---------------
 
 #### 工作近況
 > 目前正在求職中
@@ -9,7 +9,7 @@ Recent Activity
 #### 技術近況
 >
 
-Introduction <br>
+Introduction
 ------------
 內文
 
@@ -54,3 +54,21 @@ Skills
 
 > Git
 > * test
+
+Project
+-------
+
+#### 簡易購物車 `未完成`
+> []()
+>
+> _JavaScript Test_
+>
+> 前後端技術：
+> * test
+> * test
+
+Contact
+-------
+E-mail： [coolsheep378@gmail.com](coolsheep378@gmail.com)
+FaceBook： []()
+<del> Website：</del>
