@@ -31,7 +31,7 @@ Skills
 #### Languages
 
 > HTML5
->* test
+> test
 
 > CSS
 > * test 
