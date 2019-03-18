@@ -30,11 +30,11 @@ Skills
 
 #### Languages
 
-> HTML
-> *  test
+> HTML5
+>* test
 
 > CSS
-> * test  test
+> * test 
 
 > Java
 > * test
@@ -45,5 +45,11 @@ Skills
 > PHP
 > * test  
 
+#### Data Querying Language
+
 > SQL
+> * test
+
+#### Common
+> Git
 > * test
