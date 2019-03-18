@@ -31,7 +31,7 @@ Skills
 #### Languages
 
 > HTML
-> * test
+> *  test
 
 > CSS
 > * test
@@ -43,7 +43,7 @@ Skills
 > * test
 
 > PHP
-> * test
+> * test  
 
 > SQL
 > * test
