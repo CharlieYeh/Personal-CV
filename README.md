@@ -31,7 +31,7 @@ Skills
 #### Languages
 
 > HTML5
-> test
+> * test
 
 > CSS
 > * test 
@@ -45,7 +45,7 @@ Skills
 > PHP
 > * test  
 
-#### Data Querying Language
+#### Data Querying Language <\br> 
 
 > SQL
 > * test
