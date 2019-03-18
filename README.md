@@ -1,5 +1,7 @@
 # Charlie Yeh's Personal-cv
 
+Recent Activity
+==============
 > 目前正在求職中
 
 Introduction
@@ -16,6 +18,5 @@ Personality
 
 Work Experience
 ---------------
-> 目前尚無工作經驗
-
+> 尚無工作經驗
 
