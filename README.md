@@ -81,24 +81,23 @@ Skills
 #### Languages
 
 > HTML5
-> * test
+> * 熟悉 HTML 語意化標籤
 
 > CSS
-> * test 
-
-> Java
-> * test
+> * 熟悉 CSS 大部分屬性
+> * 略懂 Bootstrap Front-End Framework
+> * 略懂 RWD 
 
 > JavaScript
-> * test
-
-> PHP
-> * test  
+> * 略懂 Node.js
+> * 略懂 jQuery 函式庫
+> * 略懂 MVC Architectures
+> * <del> 略懂 npm </del>
 
 #### Data Querying Language <br> 
 
 > SQL
-> * test
+> * 略懂 資料操作（查詢、新增、移除、修改...）
 
 #### Common
 
@@ -112,15 +111,25 @@ Project
 
 > []()
 >
-> _JavaScript Test_
+> <i>大四期間的其中一項實作課題─功能完整的購物車，後因對於JavaScript不熟，暫時擱置。<br>
+  於一段時間的摸索、測試之後，目前僅實裝部分功能，正在試著規劃更完整的購物車</i>
 >
-> 前後端技術：
-> * test
-> * test
+> 以Node.js協助開發。
+> 使用資源：
+> * Bootstrap Framwork
+> * jQuery Library
+> * <del>Complete RWD</del>
+
+#### 仿企業官網
+
+> []()
+> 
+> 試著設計部分企業的形象官網（切板、外觀、動態效果...）。
+>
+> 以Node.js協助開發。
 
 Contact
 -------
-
 E-mail： [coolsheep378@gmail.com](coolsheep378@gmail.com) <br>
 FaceBook： []()                                           <br>
 <del> Website：</del>
