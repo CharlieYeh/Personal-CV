@@ -1,7 +1,7 @@
 # Charlie's personal-cv
 
 Recent Activity
---------------- <br>
+--------------- <\br>
 
 #### 工作近況
 > 目前正在求職中
@@ -9,7 +9,7 @@ Recent Activity
 #### 技術近況
 >
 
-Introduction
+Introduction <br>
 ------------
 內文
 
