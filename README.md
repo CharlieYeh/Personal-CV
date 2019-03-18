@@ -20,7 +20,7 @@ Introduction
 About Me
 --------
 
-我是 <b>葉名揚</b>，男-22歲。
+我是 <b>葉名揚</b>，男 ─ 22歲。
 <ol>
   <li>
     <details>
