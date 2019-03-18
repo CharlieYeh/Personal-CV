@@ -1,7 +1,7 @@
 # Charlie's personal-cv
 
 Recent Activity
----------------
+--------------- <br>
 
 #### 工作近況
 > 目前正在求職中
@@ -45,11 +45,12 @@ Skills
 > PHP
 > * test  
 
-#### Data Querying Language <\br> 
+#### Data Querying Language <br> 
 
 > SQL
 > * test
 
 #### Common
+
 > Git
 > * test
