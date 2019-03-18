@@ -58,7 +58,7 @@ Skills
 Project
 -------
 
-#### 簡易購物車  #####`未完成`
+#### 簡易購物車  ##### `未完成`
 > []()
 >
 > _JavaScript Test_
@@ -71,5 +71,5 @@ Contact
 -------
 
 E-mail： [coolsheep378@gmail.com](coolsheep378@gmail.com) <br>
-FaceBook： []() <br>
+FaceBook： []()                                           <br>
 <del> Website：</del>
