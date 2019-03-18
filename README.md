@@ -34,7 +34,7 @@ Skills
 > *  test
 
 > CSS
-> * test
+> * test  test
 
 > Java
 > * test
