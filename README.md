@@ -34,3 +34,16 @@ Skills
 > * test
 
 > CSS
+> * test
+
+> Java
+> * test
+
+> JavaScript
+> * test
+
+> PHP
+> * test
+
+> SQL
+> * test
