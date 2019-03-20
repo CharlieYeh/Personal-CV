@@ -134,5 +134,5 @@ Project
 Contact
 -------
 E-mail： [coolsheep378@gmail.com](coolsheep378@gmail.com) <br>
-FaceBook： [FaceBook ─ 葉名揚](https://www.facebook.com/profile.php?id=100002551012600) <br>
+FaceBook： [FaceBook（葉名揚）](https://www.facebook.com/profile.php?id=100002551012600) <br>
 My 104： [https://www.104.com.tw/jobs/main/](https://www.104.com.tw/jobs/main/)
