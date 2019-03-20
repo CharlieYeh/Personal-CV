@@ -7,7 +7,7 @@ Recent Activity
 > 目前正在求職中
 
 #### 技術近況
-> 學習計畫
+> 學習計畫**
 
 Introduction
 ------------
@@ -104,7 +104,7 @@ Skills
 #### Common
 
 > Git
-> * 學習中
+> * ***
 
 Project
 -------
