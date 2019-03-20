@@ -90,7 +90,7 @@ Skills
 > * <del> 維護 Stylesheets </del>
 
 > JavaScript
-> * 使用語言特性：
+> * <del> 使用語言特性：Prototype Chain...</del> 學習中
 > * 略懂 Node.js
 > * 略懂 jQuery 函式庫
 > * 略懂 MVC Architectures
@@ -104,7 +104,7 @@ Skills
 #### Common
 
 > Git
-> * test
+> * 學習中
 
 Project
 -------
