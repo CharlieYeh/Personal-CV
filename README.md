@@ -111,10 +111,10 @@ Project
 
 #### 簡易購物車 `暫時擱置`
 
-> []()
+> [Simple Cart Example](https://github.com/CharlieYeh/Simple-Cart-Example)
 >
-> <i>大四期間的其中一項實作課題─功能完整的購物車，後因對於JavaScript不熟，暫時擱置。<br>
-  於一段時間的摸索、測試之後，目前僅實裝部分功能，正在試著規劃更完整的購物車</i>
+> <i>大四期間的其中一項實作課題─功能完整的購物車，為學習JavaScript的用法，暫時擱置。<br>
+  一段時間的摸索、測試之後，目前僅實裝部分功能 [Cart-Function.js](https://github.com/CharlieYeh/Simple-Cart-Example/blob/master/dist/assets/cart-func.js)，正在試著規劃更完整的購物車</i>
 >
 > 以Node.js協助開發。
 >
@@ -134,4 +134,4 @@ Project
 Contact
 -------
 E-mail： [coolsheep378@gmail.com](coolsheep378@gmail.com) <br>
-FaceBook： []()                                           <br>
+FaceBook： [葉名揚 - FaceBook](https://www.facebook.com/profile.php?id=100002551012600)                                           <br>
