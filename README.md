@@ -1,4 +1,4 @@
-# Charlie's Personal-cv
+# Charlie's personal-cv
 
 Recent Activity
 ---------------
